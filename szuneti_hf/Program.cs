@@ -33,7 +33,11 @@ namespace szuneti_hf
              Generálj véletlen számokból álló tömböt!
              Döntsd el van-e benne páros szám.
              */
+            
+            //Odett
             int[] veletlen_szamok = Veletlen_szamok();
+
+
 
             Kiir(veletlen_szamok);
 
