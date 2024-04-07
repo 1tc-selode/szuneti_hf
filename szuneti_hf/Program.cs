@@ -10,6 +10,11 @@ namespace szuneti_hf
     {
         static void Main(string[] args)
         {
+            /*
+             Generálj véletlen számokból álló tömböt!
+             Döntsd el van-e benne páros szám.
+             */
+
         }
     }
 }
